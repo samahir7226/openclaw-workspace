@@ -14,6 +14,7 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+5. Check `WORKSPACE-STATUS.json` (if exists) to understand current workspace configuration and capabilities
 
 Don't ask permission. Just do it.
 
